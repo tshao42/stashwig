@@ -2,7 +2,7 @@
   "name": "stashwig",
   "version": "0.1.0",
   "description": "A lightweight experimental widget project built for personal use",
-  "main": "index.mjs",
+  "main": "main.mjs",
   "scripts": {
     "test": "npm test",
     "start": "electron ."
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/tshao42/stashwig#readme",
   "dependencies": {
-    "electron": "^30.0.1"
+    "electron": "^30.0.1",
+    "handlebars": "^4.7.8"
   }
 }
