@@ -4,7 +4,8 @@
   "description": "A lightweight experimental widget project built for personal use",
   "main": "index.mjs",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
